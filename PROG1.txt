@@ -1,0 +1,10 @@
+Naipe    http://dle.rae.es/?id=QDRNO5k
+Guitarra http://dle.rae.es/?id=Js6RJGg
+Florete  http://dle.rae.es/?id=I7AGBBv
+Libro    http://dle.rae.es/?id=NG3ktc6
+Libertad http://dle.rae.es/?id=NEeAr5C
+Magia    http://dle.rae.es/?id=NskdMWE
+Esgrima  http://dle.rae.es/?id=GQCqmA3
+Moneda   http://dle.rae.es/?id=PdNuKTo
+Ganzúa   http://dle.rae.es/?id=IrOeRNs
+Ron      http://dle.rae.es/?id=WfgeA84
