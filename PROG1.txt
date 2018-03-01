@@ -8,3 +8,15 @@ Esgrima  http://dle.rae.es/?id=GQCqmA3
 Moneda   http://dle.rae.es/?id=PdNuKTo
 Ganzúa   http://dle.rae.es/?id=IrOeRNs
 Ron      http://dle.rae.es/?id=WfgeA84
+
+1- Coche	--	http://dle.rae.es/?id=9ZNs7ye|9ZO4sFe
+2- Edificio     --	http://dle.rae.es/?id=ENa0lL9
+3- Avion        --	http://dle.rae.es/?id=4a5PEam|4a6XWdH
+4- Mochila	--	http://dle.rae.es/?id=PStX6ei
+5- Cristal	--	http://dle.rae.es/?id=BImqXy7
+6- Aviso	--	http://dle.rae.es/?id=4aILIdl
+7- Compañero	--	http://dle.rae.es/?id=9ymBep5
+8- Trabajo	--	http://dle.rae.es/?id=aBuhX28
+9- Exceso	--	http://dle.rae.es/?id=HCB2Mdi
+10- Cocodrilo	--	http://dle.rae.es/?id=9bRsmBy
+
